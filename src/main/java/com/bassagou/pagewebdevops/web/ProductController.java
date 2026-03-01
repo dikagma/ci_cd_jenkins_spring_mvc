@@ -9,5 +9,9 @@ public class ProductController {
     public String index() {
         return "product";
     }
+    @GetMapping("/produit")
+    public String product() {
+       return "prod";
+    }
 
 }
