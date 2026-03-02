@@ -10,6 +10,7 @@ public class product {
         Id = id;
         this.designation = designation;
         this.price = price;
+        this.quantity = quantity;
     }
 
 }
