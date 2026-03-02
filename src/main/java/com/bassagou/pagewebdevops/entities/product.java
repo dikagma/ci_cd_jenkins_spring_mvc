@@ -8,6 +8,8 @@ public class product {
 
     public product(Long id, String designation, int price, int quantity) {
         Id = id;
+        this.designation = designation;
+        this.price = price;
     }
 
 }
