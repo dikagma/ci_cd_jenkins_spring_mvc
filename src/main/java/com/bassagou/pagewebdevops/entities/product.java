@@ -6,4 +6,8 @@ public class product {
     int price;
     int quantity;
 
+    public product(Long id, String designation, int price, int quantity) {
+        Id = id;
+    }
+
 }
