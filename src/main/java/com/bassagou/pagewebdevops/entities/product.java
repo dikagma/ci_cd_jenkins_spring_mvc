@@ -4,5 +4,6 @@ public class product {
     Long Id;
     String designation;
     int price;
+    int quantity;
 
 }
