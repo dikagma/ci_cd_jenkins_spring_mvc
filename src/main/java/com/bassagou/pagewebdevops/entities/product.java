@@ -1,0 +1,4 @@
+package com.bassagou.pagewebdevops.entities;
+
+public class product {
+}
