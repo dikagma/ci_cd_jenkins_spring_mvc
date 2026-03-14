@@ -6,6 +6,10 @@ public class product {
     int price;
     int quantity;
 
+    public void setId(Long Id) {
+        this.Id = Id;
+    }
+
     public void setDesignation(String designation) {
         this.designation = designation;
     }
